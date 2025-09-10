@@ -1,0 +1,31 @@
+.about-card{
+    background: linear-gradient(to top, #86377b 20%, #27273c 80%);
+    color:white;
+}
+
+.text-color-white{
+    color:white
+}
+
+.imagen-ps{
+    // background-image: url(../../../public/proyecto-fintech.png);
+}
+
+.projects{
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+.project{
+    background-image: linear-gradient(to top, #86377b 20%, #27273c 80%);
+
+    height: 100hv;
+    // vertical-align: middle;
+    align-items: center;
+    display: block;
+    position: relative;
+    width: 550px; 
+    margin: auto;
+    margin-bottom: 20px;
+}

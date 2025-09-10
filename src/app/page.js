@@ -1,4 +1,4 @@
-import Banner from '../../my_portfolio/src/components/Banner';
+import Banner from '../components/Banner';
 import Link from 'next/link';
 
 export default function Home() {
