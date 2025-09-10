@@ -5,7 +5,7 @@ const ProfilePicture = () => {
     <Image
       src="/profile.png"
       alt="Profile"
-      width={200}
+      width={300}
       height={200}
       className="rounded"
       priority
