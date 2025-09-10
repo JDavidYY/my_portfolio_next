@@ -1,6 +1,7 @@
 import About from '../../components/About';
 import ProjectFintechPicture from '../../components/ProjectFintechPicture';
 import ProjectChickenappPicture from '../../components/ProjectChickenappPicture';
+import ProjectChickenApp from '../../components/projectChickenApp';
 // Si migras ProjectChickenApp, actualiza aquí también
 
 export default function ProjectsPage() {

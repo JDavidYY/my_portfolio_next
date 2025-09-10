@@ -10,18 +10,18 @@ const ProfileCard = () => {
       <ProfilePicture />
       <div className="mt-6">
         <h2 className="title text-color-white">David Yon</h2>
-        <p className="mb-6">Student of Software Engineer</p>
+        <p className="mb-6">Software and Data Engineer</p>
         <ul className="text-gray-800 leading-normal mb-6">
           <li className="mb-2">
-            <FontAwesomeIcon icon={faEnvelope} className="mr-3 text-color-white" />
+            <FontAwesomeIcon icon={faEnvelope} className="mr-3 text-color-white text-sm w-4 h-4 inline-block" />
             <a className="text-color-white" href="mailto:yonjosedavid@gmail.com">yonjosedavid@gmail</a>
           </li>
           <li className="mb-2">
-            <FontAwesomeIcon icon={faPhone} className="mr-3 text-color-white" />
+            <FontAwesomeIcon icon={faPhone} className="mr-3 text-color-white text-sm w-4 h-4 inline-block" />
             <a className="text-color-white" href="tel:(+51) 932 552 705">(+51) 932-552-705</a>
           </li>
           <li className="mb-2">
-            <FontAwesomeIcon icon={faLinkedin} className="mr-3 text-color-white" />
+            <FontAwesomeIcon icon={faLinkedin} className="mr-3 text-color-white text-sm w-4 h-4 inline-block" />
             <a className="text-color-white"
               href="https://www.linkedin.com/in/davidyon04/"
               target="_blank"
@@ -31,7 +31,7 @@ const ProfileCard = () => {
             </a>
           </li>
           <li>
-            <FontAwesomeIcon icon={faInstagram} className="mr-3 text-color-white" />
+            <FontAwesomeIcon icon={faInstagram} className="mr-3 text-color-white text-sm w-4 h-4 inline-block" />
             <a 
               className='text-color-white'
               href="https://www.instagram.com/david_yon04/?hl=es"
